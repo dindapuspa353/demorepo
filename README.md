@@ -1,6 +1,6 @@
 #demorepo
 
-Tyara cantik
+Tyara jelek
 
 ## Subheader
 
